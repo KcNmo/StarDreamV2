@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 - 星空蓝 -->
+    <color name="star_blue">#3B82F6</color>
+    <color name="star_blue_light">#60A5FA</color>
+    <color name="star_blue_dark">#1E40AF</color>
+    
+    <!-- 辅助色 - 星光金 -->
+    <color name="star_gold">#F59E0B</color>
+    <color name="star_gold_light">#FCD34D</color>
+    <color name="star_gold_dark">#D97706</color>
+    
+    <!-- 背景色 - 深空色 -->
+    <color name="space_dark">#0F172A</color>
+    <color name="space_medium">#1E293B</color>
+    <color name="space_light">#334155</color>
+    
+    <!-- 文字色 -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="text_tertiary">#94A3B8</color>
+    
+    <!-- 功能色 -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- 渐变色 -->
+    <color name="gradient_start">#1E3A8A</color>
+    <color name="gradient_end">#3B82F6</color>
+</resources>
