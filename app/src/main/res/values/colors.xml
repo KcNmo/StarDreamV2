@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 - 星空蓝 -->
+    <color name="primary">#1A237E</color>
+    <color name="primary_variant">#303F9F</color>
+    <color name="secondary">#FFD700</color>
+    <color name="secondary_variant">#FFC107</color>
+    
+    <!-- 背景色 -->
+    <color name="background">#0D1117</color>
+    <color name="surface">#161B22</color>
+    <color name="surface_variant">#21262D</color>
+    
+    <!-- 文字颜色 -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_background">#F0F6FC</color>
+    <color name="on_surface">#F0F6FC</color>
+    <color name="on_surface_variant">#8B949E</color>
+    
+    <!-- 功能色 -->
+    <color name="success">#28A745</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#DC3545</color>
+    <color name="info">#17A2B8</color>
+    
+    <!-- 渐变色 -->
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+    <color name="star_gradient_start">#FFD700</color>
+    <color name="star_gradient_end">#FFA500</color>
+    
+    <!-- 透明度 -->
+    <color name="black_50">#80000000</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="primary_50">#801A237E</color>
+    
+    <!-- 聊天背景 -->
+    <color name="chat_bubble_sent">#007AFF</color>
+    <color name="chat_bubble_received">#E5E5EA</color>
+    <color name="chat_text_sent">#FFFFFF</color>
+    <color name="chat_text_received">#000000</color>
+</resources>
